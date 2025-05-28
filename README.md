@@ -32,9 +32,9 @@
 
 
 ### Socials 
-<a href="https://github.com/andrewhryn" target="_blank" style="margin-right: 6px;">
+<a href="https://github.com/HenryUnaeze" target="_blank" style="margin-right: 6px;">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
 </a>
-<a href="https://linkedin.com/in/andrewhryn" target="_blank" style="margin-right: 6px;">
+<a href="https://linkedin.com/in/henry-unaeze-638690108" target="_blank" style="margin-right: 6px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
 </a>
